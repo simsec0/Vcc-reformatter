@@ -1,0 +1,3 @@
+vcc format input = XXXXXXXXXXXXXXXX|XX|XXXX|XXX
+output format = XXXXXXXXXXXXXXXX:XXXX:XXX
+<3
